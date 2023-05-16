@@ -44,5 +44,5 @@ private static void judgeHeap(int[] list, int top, int bot1, int bot2); // ヒ�
 
 private static boolean judgeRange(int in, int min, int max); // 範囲判定
 
-# UpdateLog
-0516 アップロード
+# Update Log
+20230516 アップロード
